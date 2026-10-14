@@ -1,0 +1,27 @@
+#JVM IS  a java virtual machine which is the source to bytecode and then convert it into machine code.
+complier is  simpley about read the full code than execute it.
+interpreter is about read the code line by line or execute it simounlatlly.
+java to complierto bytecode to JVM to machinecode.
+java main dono use hote ha interpreter or jit (just in time ) complier and we use the hybrid versions of it.
+  #JVM - 1) convert bytecode to machinecode 
+      
+      2)sercurity (sand-box model)
+      sand-box -> JVM provides the room to process the code.
+       3) Garbage collection.
+
+
+
+       #JRE-
+       1)JVM+ class liberies
+       wheree we import some liberies to code for access them easily.
+       #JDK-(java development kit)
+
+       #JRE+complier+degubber(break the code and check them)+java docs.
+
+       ########
+       JSE -> JAVA STANDARD EDITION(core java)
+       JEE -> JAVA ENTERPRISE EDITION(for web page ) (jakarata EE)
+       JME -> JAVA MICRO EDOTION.(for early mobile phones) replace by andorid
+
+
+
